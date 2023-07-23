@@ -12,12 +12,14 @@ I'm a passionate software engineer and entrepreneur, with a strong foundation in
 - Production Assistant / Data Analyst / Software Developer at Common Good Bakery (2017 - Present)
 
 ## 🛠️ Skills
-- **Languages:** Python, C++, HTML, CSS
-- **Frameworks:** Flask
-- **Technologies:** OOP, NEAT, Data Structures, Algorithms
-- **Databases:** SQL
-- **Tools:** Tableau, GitHub, Google Cloud
-- **APIs:** Toast API
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud)
 - **Mathematics:** Advanced in Mathematics and Proof Writing
 
 ## 🌱 I’m currently learning ...
