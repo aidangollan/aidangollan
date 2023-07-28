@@ -34,5 +34,5 @@ Building up my startup, DataLume. Our product is currently in use in the Grand T
 3. **Crypto Market Trading Software**: I created a simulated crypto trading platform enabling users to execute buy and sell orders and view their transaction history using C++.
 
 Find me around the web 🌎:
-- Sharing updates on [LinkedIn]([add-your-link-here](https://www.linkedin.com/in/aidangollan/]) 💼
+- Sharing updates on [LinkedIn](https://www.linkedin.com/in/aidangollan/) 💼
 - On my [GitHub](https://github.com/aidangollan)
