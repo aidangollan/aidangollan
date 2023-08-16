@@ -8,8 +8,8 @@
 I'm a passionate software engineer and entrepreneur, with a strong foundation in computer science, data analysis, and software development. I'm proficient in a wide array of programming languages and technologies, and I'm always eager to learn more. I am currently the Founder and CEO of DataLume, a startup dedicated to delivering efficiency improvements and waste reduction solutions to local businesses.
 
 ## 🎯 Experience
-- Founder / CEO at DataLume (2023 - Present)
-- Production Assistant / Data Analyst / Software Developer at Common Good Bakery (2017 - Present)
+- Founder / CEO at DataLume (June 2023 - Present)
+- Software Development Intern at Common Good Bakery (January 2023 - June 2023)
 
 ## 🛠️ Skills
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
