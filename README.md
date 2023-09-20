@@ -2,7 +2,7 @@
 
 📍 **Location:** East Lansing, MI
 📧 **Email:** gollanai@msu.edu
-🎓 **Education:** B.S. Computer Science, Minor in Mathematics from Michigan State University (Expected 2026)
+🎓 **Education:** B.S. Computer Science, Minor in Mathematics from Michigan State University (Expected 2025)
 
 ## 🚀 About Me
 I'm a passionate software engineer and entrepreneur, with a strong foundation in computer science, data analysis, and software development. I'm proficient in a wide array of programming languages and technologies, and I'm always eager to learn more. I am currently the Founder and CEO of DataLume, a startup dedicated to delivering efficiency improvements and waste reduction solutions to local businesses.
