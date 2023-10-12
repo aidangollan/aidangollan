@@ -1,15 +1,18 @@
 # Hi there 👋, I'm Aidan Gollan!
 
-📍 **Location:** East Lansing, MI
+📍 **Location:** Traverse City, MI
 📧 **Email:** gollanai@msu.edu
-🎓 **Education:** B.S. Computer Science, Minor in Mathematics from Michigan State University (Expected 2025)
+🎓 **Education:** B.S. Computer Science, Minor in Mathematics from Michigan State University Honors College (Expected May 2025)
+📈 **GPA:** 3.89
 
 ## 🚀 About Me
-I'm a passionate software engineer and entrepreneur, with a strong foundation in computer science, data analysis, and software development. I'm proficient in a wide array of programming languages and technologies, and I'm always eager to learn more. I am currently the Founder and CEO of DataLume, a startup dedicated to delivering efficiency improvements and waste reduction solutions to local businesses.
+I'm a passionate software engineer with a strong foundation in computer science, data analysis, and software development. I have honed proficiency in SQL, Tableau, and Python through diverse projects and have managed real-world data, effectively communicating results to peers and professors. I'm proficient in a wide array of programming languages and technologies, and I'm always eager to learn more. I am currently the Founder of DataLume, a startup dedicated to delivering efficiency improvements and waste reduction solutions to local businesses.
 
 ## 🎯 Experience
+- **Undergraduate Researcher** at MSU Mathematics Department (August 2023 - Present)
+- **Founder** at DataLume (June 2023 - Present)
+- **Contracted Software Developer** at Eyeuno (June 2023 - July 2023)
 - Founder / CEO at DataLume (June 2023 - Present)
-- Software Development Intern at Common Good Bakery (January 2023 - June 2023)
 
 ## 🛠️ Skills
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -17,21 +20,25 @@ I'm a passionate software engineer and entrepreneur, with a strong foundation in
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud)
-- **Mathematics:** Advanced in Mathematics and Proof Writing
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)
+![Digital Ocean](https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat&logo=digitalocean)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=white)
+- **Mathematics:** Calculus, Linear Algebra, Boolean Logic, Statistical Analysis, Mathematical Proof Writing
 
 ## 🌱 I’m currently learning ...
-I'm currently studying at Michigan State University and am enrolled in the following courses for the Fall 2023 semester: Data Structures and Algorithms, Computer Organization and Architecture, and Honors Analysis. 
+I'm currently studying at Michigan State University Honors College and am enrolled in the following courses for the Fall 2023 semester: Data Structures and Algorithms, Computer Organization and Architecture.
 
 ## 💼 I'm currently working on ...
-Building up my startup, DataLume. Our product is currently in use in the Grand Traverse Area, reporting efficiency improvements of up to 20% and food waste reductions by 15%. Our goal is to be operational in at least 20 local businesses by next year.
+I am currently working on learning Java, developing a resume API.
+I am also working on developing a facial recognition lock system using machine learning.
 
 ## 💡 Personal Projects
-1. **Malin-Fry**: I developed the initial backend for a company website, creating a quotes and user account feature using Flask, Bcrypt, HTML, CSS, and SQL.
-2. **Snake / Snake AI**: I developed a version of the popular game "Snake", along with an AI capable of playing the game proficiently using Pygame and the NEAT algorithm.
-3. **Crypto Market Trading Software**: I created a simulated crypto trading platform enabling users to execute buy and sell orders and view their transaction history using C++.
+1. [Personal Portfolio Website](https://aidangollan.com): Showcasing personal achievements interactively using Flask, React, CSS, and Digital Ocean.
+2. [Funny Spotify Playlist Generator](https://weirdspotify.com): A generator capable of creating Spotify playlists based on input strings using Spotify API, Flask, React, CSS, and Digital Ocean.
+3. **Snake / Snake AI**: Developed a game environment using Pygame and trained an AI player using Machine Learning algorithms, resulting in a 40% increase in performance.
 
 Find me around the web 🌎:
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/aidangollan/) 💼
