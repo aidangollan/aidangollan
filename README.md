@@ -6,13 +6,12 @@
 📈 **GPA:** 3.89
 
 ## 🚀 About Me
-I'm a passionate software engineer with a strong foundation in computer science, data analysis, and software development. I have honed proficiency in SQL, Tableau, and Python through diverse projects and have managed real-world data, effectively communicating results to peers and professors. I'm proficient in a wide array of programming languages and technologies, and I'm always eager to learn more. I am currently the Founder of DataLume, a startup dedicated to delivering efficiency improvements and waste reduction solutions to local businesses.
+I'm a passionate web developer with a strong foundation in computer science, mathematics, and software development. I am profeccient in Python, React, SQL, and CSS. I'm comfortable in a wide array of programming languages and technologies, and I'm always eager to learn more. I am currently a full time student, also working at [Sample Serve](https://www.sampleserve.com/) part time as a software development intern.
 
 ## 🎯 Experience
-- **Undergraduate Researcher** at MSU Mathematics Department (August 2023 - Present)
-- **Founder** at DataLume (June 2023 - Present)
-- **Contracted Software Developer** at Eyeuno (June 2023 - July 2023)
-- Founder / CEO at DataLume (June 2023 - Present)
+- **Sofware Development Intern** at Sample Serve (January 2023 - Present)
+- **Undergraduate Researcher** at MSU Mathematics Department (August 2023 - December 2023)
+- **Founder** at DataLume (June 2023 - December 2023)
 
 ## 🛠️ Skills
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
@@ -29,15 +28,15 @@ I'm a passionate software engineer with a strong foundation in computer science,
 - **Mathematics:** Calculus, Linear Algebra, Boolean Logic, Statistical Analysis, Mathematical Proof Writing
 
 ## 🌱 I’m currently learning ...
-I'm currently studying at Michigan State University Honors College and am enrolled in the following courses for the Fall 2023 semester: Data Structures and Algorithms, Computer Organization and Architecture.
+I'm currently studying at Michigan State University Honors College and am enrolled in the following courses for the Fall 2023 semester: Object Oriented Design, Web Development, and Computer Networks
 
 ## 💼 I'm currently working on ...
-I am currently working on learning Java, developing a resume API.
-I am also working on developing a facial recognition lock system using machine learning.
+I am currently working on a [Nutrition App](https://github.com/MSU-AI/nutrition-recommendation) with the MSU AI club
+I am also working on a 
 
 ## 💡 Personal Projects
 1. [Personal Portfolio Website](https://aidangollan.com): Showcasing personal achievements interactively using Flask, React, CSS, and Digital Ocean.
-2. [Funny Spotify Playlist Generator](https://weirdspotify.com): A generator capable of creating Spotify playlists based on input strings using Spotify API, Flask, React, CSS, and Digital Ocean.
+2. [Weird Spotify Playlist Generator](https://weirdspotify.com): A generator capable of creating Spotify playlists based on input strings using Spotify API, Flask, React, CSS, and Digital Ocean.
 3. **Snake / Snake AI**: Developed a game environment using Pygame and trained an AI player using Machine Learning algorithms, resulting in a 40% increase in performance.
 
 Find me around the web 🌎:
