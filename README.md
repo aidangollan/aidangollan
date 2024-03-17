@@ -6,7 +6,7 @@
 📈 **GPA:** 3.89
 
 ## 🚀 About Me
-I'm a passionate web developer with a strong foundation in computer science, mathematics, and software development. I am profeccient in Python, React, SQL, and CSS. I'm comfortable in a wide array of programming languages and technologies, and I'm always eager to learn more. I am currently a full time student, also working at [Sample Serve](https://www.sampleserve.com/) part time as a software development intern.
+I'm a passionate web developer with a strong foundation in computer science, mathematics, and software development. I am profeccient in Flask, React, SQL, and CSS. I'm comfortable in a wide array of programming languages and technologies, and I'm always eager to learn more. I am currently a full time student, also working at [Sample Serve](https://www.sampleserve.com/) part time as a software development intern.
 
 ## 🎯 Experience
 - **Sofware Development Intern** at Sample Serve (January 2023 - Present)
@@ -32,12 +32,12 @@ I'm currently studying at Michigan State University Honors College and am enroll
 
 ## 💼 I'm currently working on ...
 I am currently working on a [Nutrition App](https://github.com/MSU-AI/nutrition-recommendation) with the MSU AI club
-I am also working on a 
 
 ## 💡 Personal Projects
-1. [Personal Portfolio Website](https://aidangollan.com): Showcasing personal achievements interactively using Flask, React, CSS, and Digital Ocean.
-2. [Weird Spotify Playlist Generator](https://weirdspotify.com): A generator capable of creating Spotify playlists based on input strings using Spotify API, Flask, React, CSS, and Digital Ocean.
-3. **Snake / Snake AI**: Developed a game environment using Pygame and trained an AI player using Machine Learning algorithms, resulting in a 40% increase in performance.
+1. [Notello](https://github.com/Notello): A platform tailor made for students, making it possible for them to never have to take a note again.
+2. [Personal Portfolio Website](https://aidangollan.com): Showcasing personal achievements interactively using Flask, React, CSS, and Digital Ocean.
+3. [Weird Spotify Playlist Generator](https://weirdspotify.com): A generator capable of creating Spotify playlists based on input strings using Spotify API, Flask, React, CSS, and Digital Ocean.
+4. [Snake AI](https://github.com/aidangollan/SnakeAI): Developed a game environment using Pygame and trained an AI player using Machine Learning algorithms, resulting in a 40% increase in performance.
 
 Find me around the web 🌎:
 - Sharing updates on [LinkedIn](https://www.linkedin.com/in/aidangollan/) 💼
