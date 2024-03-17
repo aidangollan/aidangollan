@@ -34,7 +34,7 @@ I'm currently studying at Michigan State University Honors College and am enroll
 I am currently working on a [Nutrition App](https://github.com/MSU-AI/nutrition-recommendation) with the MSU AI club
 
 ## 💡 Personal Projects
-1. [Notello](https://github.com/Notello): A platform tailor made for students, making it possible for them to never have to take a note again.
+1. [Notello](https://github.com/Notello): A platform that's removing the need for students to ever take another note again.
 2. [Personal Portfolio Website](https://aidangollan.com): Showcasing personal achievements interactively using Flask, React, CSS, and Digital Ocean.
 3. [Weird Spotify Playlist Generator](https://weirdspotify.com): A generator capable of creating Spotify playlists based on input strings using Spotify API, Flask, React, CSS, and Digital Ocean.
 4. [Snake AI](https://github.com/aidangollan/SnakeAI): Developed a game environment using Pygame and trained an AI player using Machine Learning algorithms, resulting in a 40% increase in performance.
