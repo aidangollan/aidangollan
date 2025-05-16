@@ -1,13 +1,10 @@
 ## Hi there 👋, I'm Aidan Gollan
 
-I like to turn fun ideas into things you can share with others!
+I like turning fun ideas into things you can share with others
 
+- [Sprint.dev](https://www.sprint.dev/)
+- [Crypto Hunt](https://www.cryptohunt.lol/)
 - [Weird Spotify](https://weirdspotify.com/)
-- [Notello](https://www.notello.ai/launch-pad)
+- [Notello]([https://www.notello.ai/launch-pad](https://notello.ai/landing-page))
 
-I have also gained experience through several software development internships:
-
-- [Auto-Owners Insurance](https://www.auto-owners.com/) : 05/01/2024 - Present
-- [Sample Serve](https://www.sampleserve.com/) : 12/01/2023 - 05/01/2024
-
-Besides that, I am currently enrolled at Michigan State University, majoring in Computer Science and Mathematics.
+I now live in SF chasing my startup dreams!
