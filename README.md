@@ -1,6 +1,6 @@
-## hi there, i'm aidan gollan
+# hi there, i'm aidan gollan
 
-i like making projects that're fun to share with others
+## i like making projects that're fun to share with others
 
 ### projects that lose me money
 - [Crypto Hunt](https://www.cryptohunt.lol/)
@@ -10,4 +10,4 @@ i like making projects that're fun to share with others
 - [ugc.inc](https://ugc.inc)
 - [cheatmate](https://cheatmate.io)
 
-my main focus is currently building phone farm infra for ugc.inc :)
+## my main focus is currently building phone farm infra for ugc.inc :)
